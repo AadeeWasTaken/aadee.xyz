@@ -1,0 +1,19 @@
+baseURL = 'https://aadee.xyz/'
+languageCode = 'en-us'
+title = 'Aadee.xyz'
+theme = 'hugo.386'
+
+[params]
+    # Main
+    mainpagetitle = "Aadee"
+    mainpagesubtitle = "I've tried to escape, but the blocks are just too interconnected!"
+    mainpagedesc = "This site is pretty much a dynamic dump of everything I'm up to — from my blockchain projects to random musings. Heads up: I'm still figuring out what I want with this site. So, things might change on a whim (and might even break, lol :P)."
+
+    # Socials
+    twitter = "https://twitter.com/AadeeWasTaken"
+    linkedin = "https://linkedin.com/in/aadee"
+    github = "https://github.com/AadeeWasTaken"
+    overmind = "https://overmind.xyz/@AadeeWasTaken"
+
+[params.copyright]
+    name = "Aadee"
