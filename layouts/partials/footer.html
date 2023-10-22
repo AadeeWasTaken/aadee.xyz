@@ -37,6 +37,7 @@
             target="_blank"
             rel="noopener noreferrer"
             >Overmind</a
-        >{{ end }}
+        >{{ end }} {{ with .Site.Params.email }}<a href="{{ . }}">Email</a>{{
+        end }}
     </p>
 </footer>

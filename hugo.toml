@@ -14,6 +14,7 @@ theme = 'hugo.386'
     linkedin = "https://linkedin.com/in/aadee"
     github = "https://github.com/AadeeWasTaken"
     overmind = "https://overmind.xyz/@AadeeWasTaken"
+    email = "mailto:hello@aadee.xyz"
 
 [params.copyright]
     name = "Aadee"
