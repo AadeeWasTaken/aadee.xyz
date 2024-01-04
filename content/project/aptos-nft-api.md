@@ -1,5 +1,5 @@
 +++
 title = 'Aptos Nft Api'
-link = 'https://github.com/AadeeWasTaken/aptos-nft-api'
+link = 'https://github.com/aadeexyz/aptos-nft-api'
 platform = 'GitHub'
 +++

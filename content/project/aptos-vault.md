@@ -1,5 +1,5 @@
 +++
 title = 'Aptos Vault'
-link = 'https://github.com/AadeeWasTaken/aptos-vault'
+link = 'https://github.com/aadeexyz/aptos-vault'
 platform = 'GitHub'
 +++

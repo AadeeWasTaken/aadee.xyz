@@ -1,5 +1,5 @@
 +++
 title = 'Advertisement Auction'
-link = 'https://github.com/AadeeWasTaken/advertisement-auction'
+link = 'https://github.com/aadeexyz/advertisement-auction'
 platform = 'GitHub'
 +++

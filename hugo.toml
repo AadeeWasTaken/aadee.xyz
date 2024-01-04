@@ -10,9 +10,9 @@ theme = 'hugo.386'
     mainpagedesc = "This site is pretty much a dynamic dump of everything I'm up to — from my blockchain projects to random musings. Heads up: I'm still figuring out what I want with this site. So, things might change on a whim (and might even break, lol :P)."
 
     # Socials
-    twitter = "https://twitter.com/AadeeWasTaken"
+    twitter = "https://twitter.com/aadeexyz"
     linkedin = "https://linkedin.com/in/aadee"
-    github = "https://github.com/AadeeWasTaken"
+    github = "https://github.com/aadeexyz"
     overmind = "https://overmind.xyz/@AadeeWasTaken"
     email = "mailto:hello@aadee.xyz"
 

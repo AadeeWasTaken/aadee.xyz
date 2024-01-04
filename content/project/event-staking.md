@@ -1,5 +1,5 @@
 +++
 title = 'Event Staking'
-link = 'https://github.com/AadeeWasTaken/event-staking'
+link = 'https://github.com/aadeexyz/event-staking'
 platform = 'GitHub'
 +++

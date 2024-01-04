@@ -1,5 +1,5 @@
 +++
 title = 'Rentable Nfts'
-link = 'https://github.com/AadeeWasTaken/rentable-nfts'
+link = 'https://github.com/aadeexyz/rentable-nfts'
 platform = 'GitHub'
 +++
