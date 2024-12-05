@@ -6,8 +6,8 @@ theme = 'hugo.386'
 [params]
     # Main
     mainpagetitle = "Aadee"
-    mainpagesubtitle = "I've tried to escape, but the blocks are just too interconnected!"
-    mainpagedesc = "This site is pretty much a dynamic dump of everything I'm up to — from my blockchain projects to random musings. Heads up: I'm still figuring out what I want with this site. So, things might change on a whim (and might even break, lol :P)."
+    mainpagesubtitle = "I just wanted to put something on my domain"
+    mainpagedesc = "Currently stuck between one project and another—welcome to the chaos!"
 
     # Socials
     twitter = "https://twitter.com/aadeexyz"
